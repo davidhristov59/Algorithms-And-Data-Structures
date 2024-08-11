@@ -1,0 +1,10 @@
+Влез:
+5
+183001 Trajko 60
+183042 Petko 30
+198453 Mitre 55
+167859 Ratko 20
+189765 Mario 15
+
+Излез:
+Trajko Petko Mitre Ratko 
